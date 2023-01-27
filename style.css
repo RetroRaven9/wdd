@@ -1,0 +1,19 @@
+div.ex1 {
+max-width: 1600px;
+margin: 0 auto;
+border: 3px solid #ff5e5b;
+}
+
+
+
+
+
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:#306b34;
+}
+nav a:hover {
+    background-color: #306b34);
+}
