@@ -1,12 +1,22 @@
-div.ex1 {
-max-width: 1600px;
-margin: 0 auto;
-border: 3px solid #ff5e5b;
+div{
+    max-width: 1600px;
+    margin: auto;
 }
 
-
-
-
+#background{
+    height:725px;
+}
+.card-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+  }
+  .icon{
+    display: block;
+    margin-left: auto;
+    width: 50%;
+  }
 
 body {
     background-color: #fcfbfb; 
@@ -15,5 +25,23 @@ header {
     background-color:#306b34;
 }
 nav a:hover {
-    background-color: #306b34);
+    background-color: #306b34;
 }
+
+nav a {
+    text-align: center;
+    color: #011638;
+    text-decoration: none;
+}    
+
+.icon {
+    width: 80px;
+}
+
+footer p {
+    font-size: 1.2em;
+}    
+
+footer p a:hover {
+    text-decoration: underline;
+}    
